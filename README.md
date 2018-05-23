@@ -1,6 +1,6 @@
 # Bash-Calculator
 
-This is a quick and simple bash script that calculates an arithmatic statement using integers and the basic math operands:
+This is a quick and simple bash script that calculates an arithmatic statement using integers and the basic math operations:
 
 1. Addition(+)
 2. Subtraction(-)
